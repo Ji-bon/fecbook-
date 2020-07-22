@@ -5,9 +5,9 @@ This script is  Facebook account checker..🖕🖕🖕
 
 pkg install git
 
-git clone https://github.com/Ji-bon/Facebook-checker
+git clone https://github.com/Ji-bon/fecbook-
 
-cd Facebook-checker
+cd fecbook-
 
 chmod +x *
 
