@@ -5,7 +5,7 @@ This script is  Facebook account checker..🖕🖕🖕
 
 pkg install git
 
-git clone https://github.com/bokxud/Facebook-checker
+git clone https://github.com/Ji-bon/Facebook-checker
 
 cd Facebook-checker
 
@@ -20,6 +20,6 @@ sh run.sh
 Contact 
 
 
-Youtube: BDKR-28 Backup
+Youtube: Jibon Khan
 
-Telegram : BDKR28
+Telegram : Termux Master 
